@@ -1,0 +1,15 @@
+🚀 Project: Finance Analytics 
+🔍 Objective: Provide comprehensive insights into the financial health of a company through data-driven visualizations, aiding strategic decision-making.
+
+Project Overview:
+I developed a Finance Analytics Dashboard using Tableau to analyze critical financial metrics, uncover trends, and monitor key performance indicators (KPIs). The dashboard was designed to help stakeholders track financial health, optimize operations, and align with the company's financial goals.
+
+Key Features:
+Revenue & Expense Analysis: Tracked revenue and expenses over time to identify growth patterns and cost-saving opportunities.
+Financial Ratios: Monitored key financial ratios, including profit margins, return on assets (ROA), and debt-to-equity ratio, for a comprehensive financial evaluation.
+Budget vs. Actual Performance: Compared actual financial performance against budgeted figures to ensure alignment with financial forecasts.
+Profitability Insights: Analyzed profit margins and cost of goods sold (COGS) to enhance profitability and operational efficiency.
+Trend Analysis: Visualized sales data segmented by country, product, and customer type (Government, Midmarket, Enterprise, etc.) for in-depth market analysis.
+Key Tools & Skills:
+Tools: Tableau, Excel, SQL
+Skills: Data visualization, financial analysis, KPI tracking, trend analysis, dashboard design
