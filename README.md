@@ -1,5 +1,5 @@
 
-# 💼📊 Finance Analytics Dashboard – Tableau Project
+# 💼📊 Finance Analytics 
 
 ## 📝 Project Overview
 
